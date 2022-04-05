@@ -4,6 +4,8 @@
 playing around w/ git and github
 
 
+
+### Push Code to github
 1. clone repo
 
     `git clone REPO_URL`
@@ -24,7 +26,17 @@ playing around w/ git and github
     `git push`
 
 
+### Pull code from github
+`git pull`
 
+
+### Other tools
 - check status of commit
 
     `git status`
+    
+- check commit history
+
+    `git log`
+    
+ 
