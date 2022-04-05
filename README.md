@@ -30,10 +30,24 @@ playing around w/ git and github
 `git pull`
 
 
+### Change Branch
+`git checkout BRANCH_NAME`
+
 ### Create a new branch from current branch
-`git checkout -b BRANCH_NAME`
+`git checkout -b NEW_BRANCH_NAME`
 
 
+
+### Stashing Code
+- stash your code
+    
+    `git stash`
+
+- pop your stash'ed code
+
+    `git stash pop`
+    
+    
 ### Other tools
 - check status of commit
 
@@ -42,5 +56,6 @@ playing around w/ git and github
 - check commit history
 
     `git log`
-    
+
+
  
