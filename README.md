@@ -30,6 +30,10 @@ playing around w/ git and github
 `git pull`
 
 
+### Create a new branch from current branch
+`git checkout -b BRANCH_NAME`
+
+
 ### Other tools
 - check status of commit
 
